@@ -18,10 +18,9 @@
         url="https://bo-bogdan.github.io/maxsupportupdates/MyAppInstaller.pkg"
         sparkle:version="3"
         sparkle:shortVersionString="1.0.1"
-        sparkle:edSignature="Dh3fkLRHvZ/WZAXQkudFK06WOuE8TwXOHFa5ITsUv/ps5cPslzP368bONdyAE197shEnKU71TyyD62knkFiMAQ=="
         type="application/octet-stream"
         length="9338098"
-      />
+        sparkle:edSignature="Dh3fkLRHvZ/WZAXQkudFK06WOuE8TwXOHFa5ITsUv/ps5cPslzP368bONdyAE197shEnKU71TyyD62knkFiMAQ==" />
     </item>
   </channel>
 </rss>
