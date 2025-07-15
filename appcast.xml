@@ -13,7 +13,7 @@
     <item>
       <title>Версія 1.0.1 — Виправлення та покращення</title>
       <sparkle:releaseNotesLink>https://bo-bogdan.github.io/maxsupportupdates/release-notes/1.0.1.html</sparkle:releaseNotesLink>
-      <pubDate>Thu, 04 Jul 2025 10:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jul 2025 10:00:00 +0000</pubDate>
       <enclosure
         url="https://bo-bogdan.github.io/maxsupportupdates/MyAppInstaller.pkg"
         sparkle:version="3"
